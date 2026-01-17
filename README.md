@@ -1,4 +1,4 @@
-# AnimationUpdater
+# AnimationPublisher
 
 I got sick of the animation upload workflow in studio
 
