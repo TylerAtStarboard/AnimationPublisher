@@ -45,3 +45,6 @@ https://github.com/TylerAtStarboard/AnimationUpdater/releases
 
 - Open the plugin widget and start selecting KeyframeSequences
 <img width="57" height="62" alt="image" src="https://github.com/user-attachments/assets/97eb781f-0e9e-4e40-9277-8325f8f71499" />
+
+# Why no CreatorStore plugin?
+<img width="880" height="29" alt="image" src="https://github.com/user-attachments/assets/d576f9db-c6e5-4d72-a217-b6d56ee2f746" />
