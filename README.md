@@ -1,3 +1,5 @@
+<img width="64" height="64" alt="iconsmall" src="https://github.com/user-attachments/assets/45409854-6e77-4508-9011-1f32fc84dcde" />
+
 # AnimationPublisher
 
 I got sick of the animation upload workflow in studio
